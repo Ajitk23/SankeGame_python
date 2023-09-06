@@ -1,0 +1,4 @@
+venv
+python
+python11
+python==3.11
